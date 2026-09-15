@@ -4,7 +4,7 @@
 
 ### Flutter Mobile Developer — Bucharest, Romania
 
-4 years of professional experience · 10+ production apps shipped · Delivered across local, remote, and international teams
+4 years of experience · 10+ production apps shipped · Remote, agency, and freelance delivery
 
 <br>
 
@@ -23,42 +23,10 @@
 
 ### 💡 Why Work With Me
 
-<br>
-
-- **Ships, not just codes** — 10+ apps taken from concept to production, not side projects
-- **Trusted with people, not just code** — trained and mentored other developers at Top Niveau
-- **Architecture-minded** — builds with Clean Architecture, BLoC, and Riverpod for systems that scale past launch day
-- **Works across contexts** — remote teams (Xo Space), agency work (Top Niveau), and direct freelance delivery to business clients
-- **Communicates globally** — fluent in English, French, Arabic, and Spanish
-
-<br>
-
----
-
-<br>
-
-### 🛠️ Core Skills
-
-<br>
-
-<div align="center">
-
-`Flutter` &nbsp; `Dart` &nbsp; `BLoC` &nbsp; `Riverpod` &nbsp; `Firebase` &nbsp; `REST APIs` &nbsp; `Clean Architecture`
-
-</div>
-
-<br>
-
----
-
-<br>
-
-### 🎓 Education
-
-<br>
-
-- **MSc**, Politehnica Bucharest
-- **BSc**, Information Systems Development & Software Engineering
+- **Ships, not just codes** — 10+ apps taken from concept to production
+- **Trusted with people** — trained and mentored other developers at Top Niveau
+- **Architecture-minded** — Clean Architecture, BLoC, and Riverpod for systems that scale
+- **Speaks the business, not just the code** — English, French, Arabic, and Spanish
 
 <br>
 
@@ -68,11 +36,13 @@
 
 <div align="center">
 
-### 📫 Let's Connect
+**Skills:** `Flutter` `Dart` `BLoC` `Riverpod` `Firebase` `REST APIs`
 
-[Portfolio](https://yassineyoussef.vercel.app) &nbsp;·&nbsp; Yassineyoussef1998@outlook.com &nbsp;·&nbsp; +40 728 560 563
+**Education:** MSc, Politehnica Bucharest · BSc, Software Engineering
 
 <br>
+
+Yassineyoussef1998@outlook.com &nbsp;·&nbsp; +40 728 560 563
 
 **Open to Flutter opportunities — freelance, contract, or full-time**
 
